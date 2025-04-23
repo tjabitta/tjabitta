@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tunji Jabitta</h1>
 <h3 align="center">A passionate DevOps engineer and Software engineer from London, UK</h3>
 
-<p align="left"> <a href="https://twitter.com/oty_g" target="blank"><img src="https://img.shields.io/twitter/follow/oty_g?logo=twitter&style=for-the-badge" alt="oty_g" /></a> </p>
+<img align="left" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 🔭 I’m currently working on **Dockerizing a DOTNET apps and deploying it to cloud Azure Cloud**
 
