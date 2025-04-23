@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/tunjijabitta/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Tunji+Jabitta.;I'm+a+Software+Engineer%2C+DevOps+and+Cloud+Enthusiast." alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/tunjijabitta/"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1100&width=800&lines=I%27m+Tunji+Jabitta+T.;I%27m+a+Software+Engineer+and+DevOps+and+Cloud+Enthusiast." alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Tunji Jabitta</h1>
 <h3 align="center">A passionate DevOps engineer and Software engineer from London, UK</h3>
