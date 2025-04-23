@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/otiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="otiee" height="30" width="40" /></a>
-<a href="https://twitter.com/oty_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oty_g" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/otobong edoho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otobong edoho" height="30" width="40" /></a>
-<a href="https://medium.com/@otobongedoho18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@otobong edoho" height="30" width="40" /></a>
-<a href="https://discord.gg/oty_the_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oty_the_dev" height="30" width="40" /></a>
+<a href="https://dev.to/tjabitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tjabitta" height="30" width="40" /></a>
+<a href="https://twitter.com/tjabitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tjabitta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tunjijabitta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjabitta" height="30" width="40" /></a>
+<a href="https://medium.com/@tjabitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tjabitta" height="30" width="40" /></a>
+<a href="https://discord.gg/tjabitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tjabitta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
