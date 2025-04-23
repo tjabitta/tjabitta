@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 - 🤝 I’m happy to collaborate on **DevOps, Frontend**
 
-- 📝 I regularly write articles on [https://medium.com/@otobongedoho18/automating-user-creation-with-bash-scripting-on-linux-systems-d98793e458a1](https://medium.com/@otobongedoho18/automating-user-creation-with-bash-scripting-on-linux-systems-d98793e458a1)
-
 - 💬 Ask me about **Linux, Bash, Apache, Nginx, Azure, RabbitMQ, Celery, Docker, Angular, JavaScript, Python, C#, Java, Kotlin, Go, Rust, OS, GenAI and Agents**
 
 - 📫 How to reach me **tunji.jabitta@gmail.com**
